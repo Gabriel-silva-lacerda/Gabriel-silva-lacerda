@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Em busca da minha primeira oportunidade como desenvolvedor Front-end
-- 🌱 Estudando HTML, CSS, Layouts com Flex-box e CSS Grid
+- 🌱 Atualmente estudando JavaScript e React
 - 📫 Contate-me no email: gabrielp_lacerda@hotmail.com
 
 ##
