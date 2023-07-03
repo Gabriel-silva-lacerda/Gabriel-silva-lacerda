@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Em busca da minha primeira oportunidade como desenvolvedor Front-end
-- 🌱 Atualmente estudando JavaScript e React
+- 🌱Atualmente estudando JavaScript e React
 - 📫 Contate-me no email: gabrielp_lacerda@hotmail.com
 
 ##
