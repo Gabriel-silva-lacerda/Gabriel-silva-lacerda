@@ -7,7 +7,6 @@
 ##
 
 <div>
-  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-silva-lacerda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-silva-lacerda&hide=less,scss&layout=compact&langs_count=16&theme=dark"/>
 </div>
@@ -18,6 +17,8 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>    
 </div> 
   
   <h1>Redes Sociais</h1>
