@@ -15,10 +15,11 @@
   <div style="display: inline_block">
     <h1>Minhas Tecnologias </h1>
      <a href="https://www.origamid.com/certificate/198d719b" target="_blank"><img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>    
+    <a href="https://www.origamid.com/certificate/3287d4d4" target="_blank"><img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+       <img align="center" height="30" width="40" alt="sass-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+    <a href="https://www.origamid.com/certificate/c08a42c9" target="_blank"><img align="center" height="30" width="40" alt="javascript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+   <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 </div> 
   
   <h1>Redes Sociais</h1>
