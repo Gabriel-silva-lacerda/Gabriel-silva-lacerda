@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor Front-end com foco em Angular
 - 💼 Experiência com projetos utilizando Angular, React, TypeScript, Supabase e .NET
 - 📈 Desenvolvendo aplicações web escaláveis e performáticas
-- 📚 Atualmente aprimorando conhecimentos em Angular, Clean Architecture e práticas de Dev Front-end modernas
+- 📚 Atualmente aprimorando conhecimentos em Angular, Clean Architecture
 - 📫 Contato: gabrielp_lacerda@hotmail.com
 
 ##
