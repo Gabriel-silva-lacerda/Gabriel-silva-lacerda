@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🔭 Desenvolvedor Front-end com foco em Angular
-- 💼 Experiência com projetos utilizando React, TypeScript, Supabase e .NET
+- 💼 Experiência com projetos utilizando Angular, React, TypeScript, Supabase e .NET
 - 📈 Desenvolvendo aplicações web escaláveis e performáticas
 - 📚 Atualmente aprimorando conhecimentos em Angular, Clean Architecture e práticas de Dev Front-end modernas
 - 📫 Contato: gabrielp_lacerda@hotmail.com
@@ -27,7 +27,6 @@
   <a href="https://www.origamid.com/certificate/94924248" target="_blank"><img align="center" height="30" width="40" alt="wordpress-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"></a>
   <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" height="30" width="40" alt="dotnet-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" height="30" width="40" alt="supabase-icon" src="https://avatars.githubusercontent.com/u/8291948?s=200&v=4">
 </div>
 
 ##
